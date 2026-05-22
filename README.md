@@ -33,10 +33,10 @@ Developed an interactive Power BI dashboard to analyze sales performance, profit
 ## Dashboard Preview
 
 ### Sales Analysis
-![Sales Analysis](Sales Overview Dashboard PowerBI/Sales Analysis.png)
+![Sales Analysis](Sales Analysis.png)
 
 ### Profit Analysis
-![Profit Analysis](Sales Overview Dashboard PowerBI/Profit Analysis.png)
+![Profit Analysis](Profit Analysis.png)
 
 ### Quantity Analysis
-![Quantity Analysis](Sales Overview Dashboard PowerBI/Quantity Analysis.png)
+![Quantity Analysis](Quantity Analysis.png)
